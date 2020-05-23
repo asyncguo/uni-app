@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "z-popup": "/pages/index/components/Popup"
+  },
+  "component": true
+}

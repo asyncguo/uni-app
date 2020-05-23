@@ -1,0 +1,1 @@
+<view class="{{['popup',visible&&'show']}}"><view data-event-opts="{{[['tap',[['hidePopup',['$event']]]]]}}" class="popup-mask" bindtap="__e"></view><view class="popup-content"><slot></slot></view></view>

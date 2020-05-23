@@ -1,0 +1,1 @@
+<view class="container"><picker-select vue-id="8dd740cc-1" text="北京/北京/海淀区" range="{{range3}}" columns="{{3}}" values="{{values3}}" bind:__l="__l"></picker-select><picker-select vue-id="8dd740cc-2" text="北京" range="{{range3}}" columns="{{1}}" values="{{range3}}" bind:__l="__l"></picker-select></view>
